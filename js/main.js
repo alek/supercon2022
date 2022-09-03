@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 	let el = document.getElementById("grid");
 	if (el.children.length == 0) {
-		for (let i=1; i<256; i++) {
+		for (let i=1; i<512; i++) {
 			var img = document.createElement("img");
 			img.src = "./img/icons/" + Math.ceil(Math.random()*64) + ".svg";
 			el.appendChild(img)
