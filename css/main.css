@@ -289,6 +289,7 @@ header {
   margin-bottom: 2em;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 header img {
@@ -333,4 +334,32 @@ a {
 
 .Right {
   display: flex;
+}
+
+
+@media only screen and (max-width: 850px) {
+  body {
+    padding: 3em;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  body {
+    padding: 2em;
+  }
+  .Date {
+    display: none;
+  }
+  header img {
+    width: 12em;
+  }
+}
+
+@media only screen and (max-width: 450px) {
+  body {
+    padding: 1em;
+  }
+  header img {
+    width: 10em;
+  }
 }

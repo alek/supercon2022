@@ -12,9 +12,6 @@ document.addEventListener('DOMContentLoaded', function () {
 			if(Math.random() < 0.05) {
 				el.children[i].src = "./img/icons/" + 65 + ".svg";	
 			}
-			if (Math.random() < 0.2) {
-				el.children[i].src = "./img/icons/" + Math.ceil(Math.random()*64) + ".svg";
-			}
 		}
 	}
 
