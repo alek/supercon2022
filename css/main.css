@@ -362,4 +362,8 @@ a {
   header img {
     width: 10em;
   }
+  #grid img {
+    width: 10vw;
+    padding:  0.25em;
+  }  
 }
