@@ -1,20 +1,20 @@
 const schedule = [
-	// {
-	//  "speaker": "Joe Grand",
-	//  "title": "Still waiting for info",
-	//  "about": "",
-	//  "description": "",
-	//  "time": "Sat Nov 5 2022 10:00:00 GMT-0700 (Pacific Daylight Time)",
-	//  "location": "LACM"
-	// },
-	// {
-	//  "speaker": "Scotty Allen",
-	//  "title": "Still waiting for info",
-	//  "about": "",
-	//  "description": "",
-	//  "time": "Sat Nov 5 2022 11:00:00 GMT-0700 (Pacific Daylight Time)",
-	//  "location": "LACM"
-	// },
+	{
+	 "speaker": "Joe Grand",
+	 "title": "Fresh Beats: Creating The World's Thinnest Boombox",
+	 "about": "Joe [Kingpin] Grand is a computer engineer, hardware hacker, product designer, teacher, daddy, honorary doctor, occasional YouTuber, creator of the first electronic badges for DEFCON, and former technological juvenile delinquent.",
+	 "description": "Bringing back the best part of the 1980s (besides bulletin board systems), Joe Grand set out to create \"The World's Thinnest Boom Box,\" an open source, Raspberry Pi-based music player complete with custom artwork, capacitive touch sensing buttons, and ultra-thin piezo speaker elements.",
+	 "time": "Sat Nov 5 2022 10:00:00 GMT-0700 (Pacific Daylight Time)",
+	 "location": "LACM"
+	},
+	{
+	 "speaker": "Scotty Allen",
+	 "title": "Storytelling for Hackers",
+	 "about": "Scotty is a hacker turned storyteller who runs the YouTube channel Strange Parts. He makes videos that merge hacking, technology, and adventure, from building and modifying iPhones in the markets of Shenzhen, China, to visiting factories all over the world diving into the details of how stuff is actually made. He’s spent extensive time living and traveling throughout Asia, and now lives in the mountains outside Denver.",
+	 "description": "Hackers are amazing at creating our own incredible adventures, and we need to get better at sharing our own stories and hacks with the world. I want to inspire and teach you to make great videos - using engineering and hacking skills you already have to tell great stories.",
+	 "time": "Sat Nov 5 2022 11:00:00 GMT-0700 (Pacific Daylight Time)",
+	 "location": "LACM"
+	},
 	{
 	 "speaker": "Sophy Wong",
 	 "title": "Beyond Technique: Artistic Wearable Technology",
@@ -63,14 +63,14 @@ const schedule = [
 	 "time": "Sat Nov 5 2022 18:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "LACM"
 	},
-	{
-	 "speaker": "Hackaday Prize",
-	 "title": "Hackaday Prize Awards Ceremony",
-	 "about": "The entire year has been building to this moment! Find out which projects will take home awards from each of the year’s Hackaday Prize challenges.",
-	 "description": "Learn more about the winners, and experience one of the most exciting moments Supercon has to offer! ",
-	 "time": "Sat Nov 5 2022 19:00:00 GMT-0700 (Pacific Daylight Time)",
-	 "location": "LACM"
-	},
+	// {
+	//  "speaker": "Hackaday Prize",
+	//  "title": "Hackaday Prize Awards Ceremony",
+	//  "about": "The entire year has been building to this moment! Find out which projects will take home awards from each of the year’s Hackaday Prize challenges.",
+	//  "description": "Learn more about the winners, and experience one of the most exciting moments Supercon has to offer! ",
+	//  "time": "Sat Nov 5 2022 19:00:00 GMT-0700 (Pacific Daylight Time)",
+	//  "location": "LACM"
+	// },
 	{
 	 "speaker": "Kuba Tyszko",
 	 "title": "Cracking encrypted software like it's 1988",
@@ -89,9 +89,9 @@ const schedule = [
 	},
 	{
 	 "speaker": "Matt Venn",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Tiny Tapeout - lowering the barrier to ASIC design and manufacture",
+	 "about": "Matt Venn is a science & technology communicator and electronic engineer. He brings 20 years of engineering experience to create innovative learning experiences for people all over the world. Most recently he has been focusing on the world of open source silicon.",
+	 "description": "The first open source, manufacturable PDK was released in 2020. Since then there have been 7 free shuttles, 2 new open source PDKs announced and the tools have improved and become more reliable.",
 	 "time": "Sat Nov 5 2022 13:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "DesignLab"
 	},
@@ -137,33 +137,33 @@ const schedule = [
 	},
 	{
 	 "speaker": "Aedan Cullen",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Opportunities in Lightweight Augmented Reality",
+	 "about": "Aedan focuses on developing embedded systems for challenging applications, particularly robotics and augmented reality. In 2014, he designed a network protocol to deliver content to mobile AR devices. Since AR hardware is still too cumbersome for all-day use as he imagined then, he is pursuing the advances needed to change this.More recently, he has worked in Apple’s Platform Architecture group, and continues to push the limits with his own AR device designs.",
+	 "description": "Many practical considerations about augmented reality remain open questions: What should be prioritized in wearable AR hardware? What will be necessary to incorporate it in daily life? This talk will present progress made in the development of an advanced AR device, and review the answers it suggests to these questions.",
 	 "time": "Sat Nov 5 2022 16:30:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "DesignLab"
 	},
 	{
 	 "speaker": "Andrew Wilson",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "You've got to break a few FPGAs to go to Space!",
+	 "about": "Andrew Wilson is a third year PhD candidate at Brigham Young University focusing on reliable soft processors implemented on SRAM-based FPGAs for space applications.  He has worked four summers with NASA Goddard and three years at L3Harris as a FPGA engineer.  His YouTube channel focuses on providing educational videos on advance FPGA features.  He wants to provide public examples integrating vendor and open-source tools to optimize FPGA usage across all fields.",
+	 "description": "FPGAs are often used in space, but radiation testing is complex, expensive, and limited.  Let's walkthrough how fault injection in Xilinx FPGAs is used to understand failure modes and verify mitigation effectiveness.  With the use of open-source tools, we can apply triple modular redundancy and identify single point failures.",
 	 "time": "Sat Nov 5 2022 17:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "DesignLab"
 	},
-	{
-	 "speaker": "Hackaday Prize",
-	 "title": "Hackaday Prize Awards After-Party",
-	 "about": "",
-	 "description": "",
-	 "time": "Sat Nov 5 2022 20:00:00 GMT-0700 (Pacific Daylight Time)",
-	 "location": "DesignLab"
-	},
+	// {
+	//  "speaker": "Hackaday Prize",
+	//  "title": "Hackaday Prize Awards After-Party",
+	//  "about": "",
+	//  "description": "",
+	//  "time": "Sat Nov 5 2022 20:00:00 GMT-0700 (Pacific Daylight Time)",
+	//  "location": "DesignLab"
+	// },
 	{
 	 "speaker": "\"R\"",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Behind the scenes of the Paranoids DEFCON badge",
+	 "about": "The hacker known as R was until recently a member of the information security team at Yahoo, finding vulnerabilities before malicious attackers could. They’ve always had an interest in a little bit of everything but tended to gravitate towards low-level programming and reverse engineering. They began as a self-taught programmer but later earned a degree in Electrical Engineering and Computer Science from UC Berkeley. They are currently spending some time funemployed in order to pursue interests such as reverse-engineering the Apple M1 for the Asahi Linux project, while slowly seeking out next opportunities.",
+	 "description": "A small team within the Paranoids information security team at Yahoo built a badge that was given out at DEFCON. This talk will go in detail into the technical design of the badge as well as cover all of the challenges that were encountered along the way.",
 	 "time": "Sun Nov 6 2022 10:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "LACM"
 	},
@@ -201,25 +201,25 @@ const schedule = [
 	},
 	{
 	 "speaker": "Charles Lohr",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Assembly in 2022: Yes! We Still Use it and Here's Why",
+	 "about": "Charles loves all of the bits and bobs from analog electronics up to software design, but his passion lies in low level code, where the lines between software and hardware are blurred and so many things that seem impossible are possible. From creating and RF modulating video signals on 8-bit micros to running Minecraft servers on sub $1 micros, he's searched out the problems to make people ask 'why?'",
+	 "description": "This talk will help you comfortably do more with less and supercharge your projects by applying basic knowledge of assembly.  We go through many of the tools that facilitate a deeper understanding of the assembly language of your choice and show how that understanding dovetails into so many applications.",
 	 "time": "Sun Nov 6 2022 14:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "LACM"
 	},
 	{
 	 "speaker": "Natalia Galin",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Galin Engine: software is eating the internal combustion engine.",
+	 "about": "Nat is an engineer at Galin engine. Nat studied Electrical Engineering, and then went on to complete a PhD working on helicopter based SHF FMCW radar. After some postdoc work in satellite glaciology, Nat moved on to signal processing of spinal nerve signals. Then she worked in firmware development, before starting a data analysis consultancy. She holds a couple of patents, and a handful of peer-reviewed publications. Nat's motivating belief is that everything is simple, it is realising how simple it is that can be hard.",
+	 "description": "We will explain how our solution allows for a viable realisation of the rotary vane engine, and how the architecture of the engine makes it ideally suited to producing electrical power (not mechanical shaft output) from hydrocarbons.",
 	 "time": "Sun Nov 6 2022 15:00:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "LACM"
 	},
 	{
 	 "speaker": "Adrian Freed",
-	 "title": "Still waiting for info",
-	 "about": "",
-	 "description": "",
+	 "title": "Unusual Circuits with Soviet-Era ICs",
+	 "about": "After a career developing pioneering audio and music technology such as the DAW and OSC, Adrian Freed has contributed to the emerging field of E-textiles. He designs ICs recreationally and shares foundational tools and technology such as Arduino audio and cap. sense libraries.  He plays country blues guitar and is learning Son Jarocho. His life-long commitment to creative uses for analog and digital computers is reflected most recently in interactivity enhancements to Adobe Premiere Pro and an add-on board for the SuperCon6 4-bit computer badge",
+	 "description": "Soviet Era ICs were not just copies of designs from the West. Many interesting re-implementations and new designs will be demonstrated including:  a wide-range VCO with a quad XOR gate, programmable opamps, uncompensated power opamps and transistor arrays in DIP packages with integrated heat-sinks and Thyratron Neon Tube counters. Contemporary new ICs from Latvia will be shown.",
 	 "time": "Sun Nov 6 2022 15:20:00 GMT-0700 (Pacific Daylight Time)",
 	 "location": "LACM"
 	},
