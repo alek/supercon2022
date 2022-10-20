@@ -63,10 +63,24 @@ document.addEventListener('DOMContentLoaded', function () {
 
 		talk.appendChild(hash)
 
-		let time = document.createElement("h4");
-		let date = new Date(schedule[i].time)
-		time.appendChild(document.createTextNode(date.toGMTString()))
-		talk.appendChild(time)
+		let date = document.createElement("h4");
+		let d = new Date(schedule[i].time)
+		let pst = d.toLocaleString('en-US', {
+  			timeZone: 'America/Los_Angeles',
+  			dateStyle: 'full',
+  			timeStyle: 'full',
+		});
+
+		date.appendChild(document.createTextNode(pst))
+		date.appendChild(document.createElement("br"))
+		// date.appendChild(document.createTextNode(d))
+		talk.appendChild(date)
+
+		// let time = document.createElement("div");
+		// time.className = "time"
+		// time.appendChild(document.createTextNode("10 AM"))
+		// talk.appendChild(time)		
+
 
 		el.appendChild(talk)
 	}

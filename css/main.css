@@ -295,6 +295,13 @@ h3 {
 
 h4 {
   font-weight: 300;
+  font-size: 1.25em;
+  color:  rgba(255,255,255,0.5);
+}
+
+time {
+  font-size: 2em;
+  color:  rgba(255,255,255,0.75);
 }
 
 header {
