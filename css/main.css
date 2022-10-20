@@ -299,6 +299,14 @@ h4 {
   color:  rgba(255,255,255,0.5);
 }
 
+h5 {
+  font-weight: 300;
+  margin-bottom: -1em;
+  margin-top: 0.5em;
+  font-size: 1.25em;
+  color:  rgba(255,255,255,0.75);
+}
+
 time {
   font-size: 2em;
   color:  rgba(255,255,255,0.75);

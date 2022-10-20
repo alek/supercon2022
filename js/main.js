@@ -46,10 +46,12 @@ document.addEventListener('DOMContentLoaded', function () {
   			timeStyle: 'full',
 		});
 
-		date.appendChild(document.createTextNode(pst.replace("Pacific Daylight Time","").replace(" at ", " ")))
-		date.appendChild(document.createElement("br"))
-		talk.appendChild(date)
+		date.appendChild(document.createTextNode(pst.replace("Pacific Daylight Time","").replace(" at ", " ")))		
 
+		let location = document.createElement("h5");
+		location.appendChild(document.createTextNode(schedule[i].location))
+		talk.appendChild(location)
+		talk.appendChild(date)
 
 		el.appendChild(talk)
 	}
