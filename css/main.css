@@ -54,8 +54,8 @@ hr {
   display: block;
   height: 1px;
   border: 0;
-  border-top: 1px solid rgba(255,255,255,0.3);
-  margin: 1em 0 3em 0;
+  border-top: 1px solid rgba(255,255,255,0.25);
+  margin: 1em 0 2em 0;
   padding: 0;
 }
 
@@ -329,18 +329,22 @@ a {
   color: #fff;
 }
 
-#grid {
+#grid-container {
+  /*margin-top: 4em;*/
+}
+
+.grid {
   display: flex;
   flex-wrap: wrap;
 }
 
-#grid img {
+.grid img {
   width: 2.75em;
   padding:  0.25em;
   cursor: pointer;
 }
 
-#grid img:hover {
+.grid img:hover {
   opacity: 25%;
 }
 
