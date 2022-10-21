@@ -1,4 +1,18 @@
-function render(el, day) {
+hashCode = function(s){
+  return Math.abs(s.split("").reduce(function(a,b){a=((a<<5)-a)+b.charCodeAt(0);return a&a},0));
+}
+
+getHash = function(entry) {
+	let codeString = (hashCode(entry.speaker)*(1+hashCode(entry.title))).toString()
+	let result = []
+	for (let i=0; i<8; i++) {
+		let entry = parseInt((codeString[(i*2)%codeString.length] + codeString[(i*2+1)%codeString.length]))
+		result.push(1+entry%64)
+	}
+	return result
+}
+
+render = function(el, day) {
 
 	let dayTitle = document.createElement("h2");
 	dayTitle.appendChild(document.createTextNode(day))
@@ -38,9 +52,10 @@ function render(el, day) {
 
 		let hash = document.createElement("div");
 		hash.className = "hash";
+		let code = getHash(entry)
 		for (let j=0; j<8; j++) {
 			var img = document.createElement("img");
-			img.src = "./img/icons/" + Math.ceil(Math.random()*64) + ".svg";
+			img.src = "./img/icons/" + code[j] + ".svg";
 			hash.appendChild(img)
 		}
 
