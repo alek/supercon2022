@@ -114,9 +114,9 @@ const schedule = {
 	},
 	{
 	 "speaker": "Presented by Digi-Key: Paul Beech",
-	 "title": "",
-	 "about": "",
-	 "description": "",
+	 "title": "Together in Electric Dreams (Workshop)",
+	 "about": "Paul combats his social anxiety and imposter syndrome by mentioning he designed the Raspberry Pi logo.",
+	 "description": "Learn the principles of building your own beautifully-flawed electronic companion, overwhelm them with the sensory input of the world and code their stress-responses using embedded Python. You get to take them home and nurture their further development.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "1:00 PM - 3:00 PM",
 	 "location": "Supplyframe HQ 2nd Floor"
@@ -139,13 +139,31 @@ const schedule = {
 	 "time": "1:30 PM",
 	 "location": "DesignLab"
 	},
+	// {
+	//  "speaker": "Pierce Nichols",
+	//  "title": "",
+	//  "about": "",
+	//  "description": "",
+	//  "date": "Saturday, November 5, 2022",
+	//  "time": "2:00 PM",
+	//  "location": "LACM"
+	// },
 	{
-	 "speaker": "Pierce Nichols",
-	 "title": "",
-	 "about": "",
-	 "description": "",
+	 "speaker": "Bradley Gawthrop",
+	 "title": "Hack Your Ride: The PEV Revolution Needs You!",
+	 "about": "Bradley Gawthrop is the Lead Hardware Engineer for FieldKit, an open source environmental instrumentation platform, making him one of the few people who can claim to have \"Hack The Planet\" as their actual job description. In 2019, FieldKit won the Hackaday Prize. He still thinks making things light up is cool. ",
+	 "description": "The world of Personal Electric Vehicles is important, fun, hacker-friendly, and needs your help before the megacorps, lawyers, and governments make it boring and sad. What's out there, who is it for, what can you do with it, and why you should care.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "2:00 PM",
+	 "location": "LACM"
+	},
+	{
+	 "speaker": "Helen Leigh",
+	 "title": "Soft Electronics",
+	 "about": "Helen Leigh is an electronic textiles nerd and hardware hacker. She is Head of Community at Crowd Supply and author of \"The Crafty Kid's Guide to DIY Electronics\", published by McGraw Hill. Her personal work is mainly focussed on creating embedded musical devices, often made with experimental conductive materials. Say hi on Twitter @helenleigh.",
+	 "description": "This talk explores the softer side of electronics, from electronic embroidery and e-textiles to soft robotics and flexible PCBs. We will look at exciting new materials and technologies with use cases in engineering, science and art, as well as sharing practical tips on material choice and techniques.",
+	 "date": "Saturday, November 5, 2022",
+	 "time": "2:30 PM",
 	 "location": "LACM"
 	},
 	{
@@ -186,18 +204,18 @@ const schedule = {
 	},
 	{
 	 "speaker": "Rikke Rasmussen, Beau Ambur",
-	 "title": "",
-	 "about": "",
-	 "description": "",
+	 "title": "Build a portable directional antenna",
+	 "about": "Amateur Operators KN6KZF & K6EAU (aka: Rikke & Beau) enjoy cruising the air waves as a conveniently socially distanced hobby. They have enjoyed making contacts from Lighthouses, Mountains and Parks. Combining the fun of geocaching, balloons and radios has lead to a great way to spend time together and get outdoors. ",
+	 "description": "Most recently that involved running Ground Control for Parachute Mobile Mission 42 while 3 skydivers made successive jumps to make both VHF and HF radio contacts while descending from over 10,000 feet under chute.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "3:00 PM - 4:00 PM",
 	 "location": "Supplyframe HQ 2nd Floor"
 	},	
 	{
 	 "speaker": "Nathan Jones",
-	 "title": "",
-	 "about": "",
-	 "description": "",
+	 "title": "Beyond Arduino: Getting to “Blinky” (and beyond!) on a New Microcontroller (Workshop)",
+	 "about": "I graduated from Harvey Mudd College in 2010 with a bachelor’s degree in Engineering and from North Carolina State University in 2020 with a master’s degree in Computer Engineering. Since 2010 I’ve served as an active-duty Army officer and currently have the immense pleasure of teaching classes about digital logic, computer architecture, and cyber fundamentals to Cadets at West Point. My passion is to learn about, develop, and teach others about embedded systems.",
+	 "description": "If you’ve ever wanted to use a development board that wasn’t “Arduino-compatible” but didn’t know how, this workshop is for you! Participants will learn how microcontrollers are programmed, which tools are needed, and where to find that information, all while starting to build their own project with an STM32 microcontroller.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "3:00 PM - 4:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
@@ -218,6 +236,15 @@ const schedule = {
 	 "description": "This talk is for anyone considering manufacturing a hardware product on their own. Carrie takes viewers through all the steps needed to iterate from a first proof-of-concept, to successfully building your first 100 units.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "4:00 PM",
+	 "location": "LACM"
+	},	
+	{
+	 "speaker": "Jorvon Moss",
+	 "title": "Robotic Designs",
+	 "about": "Jorvon [Odd-Jayy] Moss is an accomplished Maker best known for his Robotic Oddities. Jayy’s art background, BFA in Illustration, and self-taught electronics skills have combined to help launch his career and promote the wonderful world of STEAM (Science, Technology, Engineering, Art, Math). This achievement, and the many viral videos under his belt, gained him recognition from major forces in the industry; including Digi-Key Electronics, Tested Inc. with Adam Savage, various electronic and tech Faires, and as the first Black person in Make Magazine (issue 76), garnering a spot in the Maker Museum.",
+	 "description": "This talk will explore the evolution of my companion robot including how I make them seem alive with movement and artificial intelligence.",
+	 "date": "Saturday, November 5, 2022",
+	 "time": "4:30 PM",
 	 "location": "LACM"
 	},	
 	{
@@ -333,9 +360,9 @@ const schedule = {
 	},
 	{
 	 "speaker": "Alex Lynd",
-	 "title": "Workshop",
-	 "about": "",
-	 "description": "",
+	 "title": "Cat-Themed Soldering & USB Hacking Workshop! (Build a USB Nugget)",
+	 "about": "Alex Lynd is a 19 year old hardware developer and cybersecurity content creator. He appears on shows like Hak5, where he creates ethical hacking tutorials & InfoSec related content. Alex researches / specializes in Signals Intelligence, and uses microcontrollers to showcase low-cost hacks.  He has a passion for sustainability, hardware hacking, and open-source; and he creates content across multiple platforms to document his journey & projects in hopes of inspiring other young makers.  He also runs HakCat, a hardware business that creates open-source cat-themed products & educational content for beginners. ",
+	 "description": "The Nugget is a cat shaped hacking tool designed to teach beginners w/ a cute interface.  HakCat is the brand alex started at 18 that creats cat-themed products and is meant to make hacking less scary for beginners.  ",
 	 "date": "Sunday, November 6, 2022",
 	 "time": "11:00 AM - 11:30 AM",
 	 "location": "Supplyframe HQ, 3rd Floor"
