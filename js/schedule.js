@@ -1,21 +1,21 @@
 const schedule = {
 	"Friday": [
-	// {
-	//  "speaker": "2022 Supercon begins",
-	//  "title": "Early Check-In + Breakfast",
-	//  "about": "Join this workshop to learn more about the possibilities that this year’s badge offers, unlock your creativity, and hack to your heart’s content! This workshop is first come, first serve with a limit of 40 participants.",
-	//  "description": "",
-	//  "date": "Friday, November 4, 2022",
-	//  "time": "10:00 AM",
-	//  "location": "Supplyframe HQ 3rd Floor"
-	// },
+	{
+	 "speaker": "2022 Supercon begins",
+	 "title": "Early Check-In + Breakfast",
+	 "about": "Join this workshop to learn more about the possibilities that this year’s badge offers, unlock your creativity, and hack to your heart’s content! This workshop is first come, first serve with a limit of 40 participants.",
+	 "description": "",
+	 "date": "Friday, November 4, 2022",
+	 "time": "10:00 AM",
+	 "location": "Supplyframe HQ 3rd Floor"
+	},
 	{
 	 "speaker": "Voja Antonic and Adam Zeloof",
 	 "title": "Workshop: 2022 Supercon Badge Hacking",
 	 "about": "Join this workshop to learn more about the possibilities that this year’s badge offers, unlock your creativity, and hack to your heart’s content! This workshop is first come, first serve with a limit of 40 participants.",
 	 "description": "",
 	 "date": "Friday, November 4, 2022",
-	 "time": "11:00 AM",
+	 "time": "10:30 AM - 12:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},
 	// {
@@ -33,7 +33,7 @@ const schedule = {
 	 "about": "Chris Gammell is an electrical engineer, podcaster, and design consultant from Durham, NC. He has over 20 years of electronics design experience, and now works on building IoT demos at Golioth. Szczys needs no introduction.",
 	 "description": "Join this workshop to learn more about how you can install an Open Source Real Time Operating System (RTOS) on connected ePaper badges!",
 	 "date": "Friday, November 4, 2022",
-	 "time": "3:00 PM",
+	 "time": "1:00 PM - 3:00 PM",
 	 "location": "Supplyframe HQ 2rd Floor"
 	},
 	{
@@ -42,7 +42,7 @@ const schedule = {
 	 "about": "Christina Cyr is CEO of dTOOR, a company which makes \"Non-Rectangular Phones for Non-Rectangular People.\” The company’s flagship product is the Cyrcle Phone. She also helps other people and companies make their own smartphone and IoT creations.",
 	 "description": "Join this workshop to assemble your very own 2G phone. If you want to take your creation a step further after the assembly, bring your laptop with a micro-USB cable and I'll show you how to upload your own ringtones.",
 	 "date": "Friday, November 4, 2022",
-	 "time": "4:00 PM",
+	 "time": "3:00 PM - 4:00 PM",
 	 "location": "Supplyframe HQ 2rd Floor"
 	},
 	{
@@ -119,7 +119,7 @@ const schedule = {
 	 "description": "Learn the principles of building your own beautifully-flawed electronic companion, overwhelm them with the sensory input of the world and code their stress-responses using embedded Python. You get to take them home and nurture their further development.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "1:00 PM - 3:00 PM",
-	 "location": "Supplyframe HQ 2nd Floor"
+	 "location": "Supplyframe HQ 3rd Floor"
 	},	
 	{
 	 "speaker": "Presented by Seeed Studio: Debra Ansell",
@@ -208,7 +208,7 @@ const schedule = {
 	 "about": "Amateur Operators KN6KZF & K6EAU (aka: Rikke & Beau) enjoy cruising the air waves as a conveniently socially distanced hobby. They have enjoyed making contacts from Lighthouses, Mountains and Parks. Combining the fun of geocaching, balloons and radios has lead to a great way to spend time together and get outdoors. ",
 	 "description": "Most recently that involved running Ground Control for Parachute Mobile Mission 42 while 3 skydivers made successive jumps to make both VHF and HF radio contacts while descending from over 10,000 feet under chute.",
 	 "date": "Saturday, November 5, 2022",
-	 "time": "3:00 PM - 4:00 PM",
+	 "time": "3:00 PM - 5:00 PM",
 	 "location": "Supplyframe HQ 2nd Floor"
 	},	
 	{
@@ -217,7 +217,7 @@ const schedule = {
 	 "about": "I graduated from Harvey Mudd College in 2010 with a bachelor’s degree in Engineering and from North Carolina State University in 2020 with a master’s degree in Computer Engineering. Since 2010 I’ve served as an active-duty Army officer and currently have the immense pleasure of teaching classes about digital logic, computer architecture, and cyber fundamentals to Cadets at West Point. My passion is to learn about, develop, and teach others about embedded systems.",
 	 "description": "If you’ve ever wanted to use a development board that wasn’t “Arduino-compatible” but didn’t know how, this workshop is for you! Participants will learn how microcontrollers are programmed, which tools are needed, and where to find that information, all while starting to build their own project with an STM32 microcontroller.",
 	 "date": "Saturday, November 5, 2022",
-	 "time": "3:00 PM - 4:00 PM",
+	 "time": "3:00 PM - 5:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},	
 	{
@@ -364,7 +364,7 @@ const schedule = {
 	 "about": "Alex Lynd is a 19 year old hardware developer and cybersecurity content creator. He appears on shows like Hak5, where he creates ethical hacking tutorials & InfoSec related content. Alex researches / specializes in Signals Intelligence, and uses microcontrollers to showcase low-cost hacks.  He has a passion for sustainability, hardware hacking, and open-source; and he creates content across multiple platforms to document his journey & projects in hopes of inspiring other young makers.  He also runs HakCat, a hardware business that creates open-source cat-themed products & educational content for beginners. ",
 	 "description": "The Nugget is a cat shaped hacking tool designed to teach beginners w/ a cute interface.  HakCat is the brand alex started at 18 that creats cat-themed products and is meant to make hacking less scary for beginners.  ",
 	 "date": "Sunday, November 6, 2022",
-	 "time": "11:00 AM - 11:30 AM",
+	 "time": "11:00 AM - 01:00 PM",
 	 "location": "Supplyframe HQ, 3rd Floor"
 	},
 	{
