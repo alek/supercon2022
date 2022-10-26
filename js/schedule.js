@@ -3,7 +3,7 @@ const schedule = {
 	{
 	 "speaker": "2022 Supercon begins",
 	 "title": "Early Check-In + Breakfast",
-	 "about": "Join this workshop to learn more about the possibilities that this year’s badge offers, unlock your creativity, and hack to your heart’s content! This workshop is first come, first serve with a limit of 40 participants.",
+	 "about": "",
 	 "description": "",
 	 "date": "Friday, November 4, 2022",
 	 "time": "10:00 AM",
@@ -54,9 +54,17 @@ const schedule = {
 	 "time": "6:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},
-
 	],
 	"Saturday": [
+	{
+	 "speaker": "Majenta Strongheart and Elliot Williams",
+	 "title": "Welcome and Orientation",
+	 "about": "",
+	 "description": "Design's Lab Director and Hackaday's Editor in Chief welcome you to the 2022 Hackaday Superconference.",
+	 "date": "Saturday, November 5, 2022",
+	 "time": "09:30 AM",
+	 "location": "LACM"
+	},
 	{
 	 "speaker": "Joe Grand",
 	 "title": "Fresh Beats: Creating The World's Thinnest Boombox",
@@ -313,6 +321,15 @@ const schedule = {
 	],
 	"Sunday": 
 	[
+	{
+	 "speaker": "Elliot Williams",
+	 "title": "State of the Hackaday",
+	 "about": "",
+	 "description": "Hackaday turns 18! Hackaday's Editor in Chief celebrates the incredible outpouring of creativity coming from the Hackaday community over the last couple years, and gazes into his crystal ball about future hacks. Will 2022 go down in the history books as the year of the cyberdeck?",
+	 "date": "Sunday, November 6, 2022",
+	 "time": "09:30 AM",
+	 "location": "LACM"
+	},
 	{
 	 "speaker": "\"R\"",
 	 "title": "Behind the scenes of the Paranoids DEFCON badge",
