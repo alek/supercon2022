@@ -122,7 +122,7 @@ const schedule = {
 	},
 	{
 	 "speaker": "Presented by Digi-Key: Paul Beech",
-	 "title": "Together in Electric Dreams (Workshop)",
+	 "title": "Workshop: Together in Electric Dreams",
 	 "about": "Paul combats his social anxiety and imposter syndrome by mentioning he designed the Raspberry Pi logo.",
 	 "description": "Learn the principles of building your own beautifully-flawed electronic companion, overwhelm them with the sensory input of the world and code their stress-responses using embedded Python. You get to take them home and nurture their further development.",
 	 "date": "Saturday, November 5, 2022",
@@ -212,7 +212,7 @@ const schedule = {
 	},
 	{
 	 "speaker": "Rikke Rasmussen, Beau Ambur",
-	 "title": "Build a portable directional antenna",
+	 "title": "Workshop: Build a portable directional antenna",
 	 "about": "Amateur Operators KN6KZF & K6EAU (aka: Rikke & Beau) enjoy cruising the air waves as a conveniently socially distanced hobby. They have enjoyed making contacts from Lighthouses, Mountains and Parks. Combining the fun of geocaching, balloons and radios has lead to a great way to spend time together and get outdoors. ",
 	 "description": "Most recently that involved running Ground Control for Parachute Mobile Mission 42 while 3 skydivers made successive jumps to make both VHF and HF radio contacts while descending from over 10,000 feet under chute.",
 	 "date": "Saturday, November 5, 2022",
@@ -221,7 +221,7 @@ const schedule = {
 	},	
 	{
 	 "speaker": "Nathan Jones",
-	 "title": "Beyond Arduino: Getting to “Blinky” (and beyond!) on a New Microcontroller (Workshop)",
+	 "title": "Workshop: Beyond Arduino: Getting to “Blinky” (and beyond!) on a New Microcontroller",
 	 "about": "I graduated from Harvey Mudd College in 2010 with a bachelor’s degree in Engineering and from North Carolina State University in 2020 with a master’s degree in Computer Engineering. Since 2010 I’ve served as an active-duty Army officer and currently have the immense pleasure of teaching classes about digital logic, computer architecture, and cyber fundamentals to Cadets at West Point. My passion is to learn about, develop, and teach others about embedded systems.",
 	 "description": "If you’ve ever wanted to use a development board that wasn’t “Arduino-compatible” but didn’t know how, this workshop is for you! Participants will learn how microcontrollers are programmed, which tools are needed, and where to find that information, all while starting to build their own project with an STM32 microcontroller.",
 	 "date": "Saturday, November 5, 2022",
@@ -377,7 +377,7 @@ const schedule = {
 	},
 	{
 	 "speaker": "Alex Lynd",
-	 "title": "Cat-Themed Soldering & USB Hacking Workshop! (Build a USB Nugget)",
+	 "title": "Workshop: Cat-Themed Soldering & USB Hacking! (Build a USB Nugget)",
 	 "about": "Alex Lynd is a 19 year old hardware developer and cybersecurity content creator. He appears on shows like Hak5, where he creates ethical hacking tutorials & InfoSec related content. Alex researches / specializes in Signals Intelligence, and uses microcontrollers to showcase low-cost hacks.  He has a passion for sustainability, hardware hacking, and open-source; and he creates content across multiple platforms to document his journey & projects in hopes of inspiring other young makers.  He also runs HakCat, a hardware business that creates open-source cat-themed products & educational content for beginners. ",
 	 "description": "The Nugget is a cat shaped hacking tool designed to teach beginners w/ a cute interface.  HakCat is the brand alex started at 18 that creats cat-themed products and is meant to make hacking less scary for beginners.  ",
 	 "date": "Sunday, November 6, 2022",
