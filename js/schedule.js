@@ -186,7 +186,7 @@ const schedule = {
 	{
 	 "speaker": "Andy Geppert",
 	 "title": "Interactive Core Memory - Core64",
-	 "about": "Andy Gepopert has a formal education in mechanical engineering and a DIY education in electronics and firmware. If Andy had known mechatronics was a field of study in college, they would have focused specifically in that realm. 	",
+	 "about": "Andy Geppert has a formal education in mechanical engineering and a DIY education in electronics and firmware. If Andy had known mechatronics was a field of study in college, they would have focused specifically in that realm. 	",
 	 "description": "This talk presents an introduction to Interactive Core Memory, and how the Core64 project came to be.",
 	 "date": "Saturday, November 5, 2022",
 	 "time": "2:30 PM",
