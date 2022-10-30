@@ -405,6 +405,50 @@ p {
   min-height: 120px;
 }
 
+footer {
+  margin-top: 1em;
+  border-top:  1px solid rgba(255,255,255,0.5);
+  padding-top: 2em;
+  margin-bottom: 3em;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+footer h5 {
+  display: block;
+  margin-bottom: 1em;
+}
+
+footer .sponsors {
+  display: flex;
+  flex-wrap: wrap;  
+  align-items: center;
+}
+
+footer .sponsors img {
+  padding: 1em;
+}
+
+footer .locations {
+  margin-top: 1em;
+}
+
+footer .locations h3 {
+  text-transform: uppercase;
+}
+
+footer .locations h4 {
+  margin-bottom: 0em;
+  color: rgba(255,255,255,0.8);
+  font-size: 1em;
+  font-weight: 400;
+}
+
+.footer .locations h5 {
+  font-size: 0.5em;
+  color:  red;
+}
 
 @media only screen and (max-width: 1600px) {
   .talk {
