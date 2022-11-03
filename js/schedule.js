@@ -6,7 +6,7 @@ const schedule = {
 	 "about": "",
 	 "description": "",
 	 "date": "Friday, November 4, 2022",
-	 "time": "10:00 AM",
+	 "time": "9:00 AM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},
 	{
