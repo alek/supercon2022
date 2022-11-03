@@ -34,7 +34,7 @@ const schedule = {
 	 "description": "Join this workshop to learn more about how you can install an Open Source Real Time Operating System (RTOS) on connected ePaper badges!",
 	 "date": "Friday, November 4, 2022",
 	 "time": "1:00 PM - 3:00 PM",
-	 "location": "Supplyframe HQ 2rd Floor"
+	 "location": "Supplyframe HQ 2nd Floor"
 	},
 	{
 	 "speaker": "Christina Cyr",
@@ -43,7 +43,7 @@ const schedule = {
 	 "description": "Join this workshop to assemble your very own 2G phone. If you want to take your creation a step further after the assembly, bring your laptop with a micro-USB cable and I'll show you how to upload your own ringtones.",
 	 "date": "Friday, November 4, 2022",
 	 "time": "3:00 PM - 4:00 PM",
-	 "location": "Supplyframe HQ 2rd Floor"
+	 "location": "Supplyframe HQ 2nd Floor"
 	},
 	{
 	 "speaker": "Ignite",
