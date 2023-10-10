@@ -14,7 +14,9 @@
 html {
   color: #222;
   font-size: 1em;
-  background-color: #272C33;
+/*  background-color: #272C33;*/
+/*  background-color: #110b19;*/
+  background-color: rgba(18, 16, 17, 255);
   font-family: Helvetica, sans-serif;
   color: #fff;
 }
@@ -270,6 +272,8 @@ textarea {
   }
 }
 
+
+
 h2 {
   padding: 0em;
   margin: 0em;
@@ -280,6 +284,10 @@ h2 {
   margin-block-end: 0em;
   margin-inline-start: 0em; 
   margin-inline-end: 0em;
+/*  color: rgba(184,135,59,255);*/
+/*  color: rgba(210,211,211,1);*/
+/*  color: #8e6aba;*/
+  filter: url(#glitch);
 }
 
 h3 {
@@ -287,16 +295,19 @@ h3 {
   font-weight: 300;
   font-size: 1em;
   color:  rgba(255,255,255,0.75);
+  color: #8e6aba;
   /*color: #FFB024;*/
   letter-spacing: 1px;
   padding: 0em;
   margin: 0em;
+    filter: url(#glitch);
 }
 
 h4 {
   font-weight: 300;
   font-size: 1.25em;
   color:  rgba(255,255,255,0.5);
+    filter: url(#glitch);
 }
 
 h5 {
@@ -305,6 +316,7 @@ h5 {
   margin-top: 0.5em;
   font-size: 1.25em;
   color:  rgba(255,255,255,0.75);
+    filter: url(#glitch);
 }
 
 time {
@@ -321,7 +333,7 @@ header {
 }
 
 header img {
-  width: 15em;
+  width: 6em;
 }
 
 a {
@@ -342,6 +354,7 @@ a {
   width: 2.75em;
   padding:  0.25em;
   cursor: pointer;
+  opacity: 0.25;
 }
 
 .grid img:hover {
@@ -354,8 +367,10 @@ a {
 }
 
 .BuyTickets {
-  border: 1px solid #FFB123;
-  color: #FFB123;
+/*  border: 1px solid #FFB123;*/
+  border: 1px solid #8e6aba;
+/*  color: #FFB123;*/
+  color: #8e6aba;
   font-weight: 500;
   display: flex;
   justify-content: center;
@@ -367,14 +382,15 @@ a {
 }
 
 .BuyTickets:hover {
-  background-color: #FFB123;
+/*  background-color: #FFB123;*/
+  background-color: #8e6aba;
   color: #272C33;
 }
 
 p {
   color: rgba(255,255,255,0.6);
   font-weight: 300;
-
+  filter: url(#glitch);
 }
 
 .Right {
@@ -487,7 +503,7 @@ footer p {
     display: none;
   }
   header img {
-    width: 12em;
+    width: 5em;
   }
   .talk {
     max-width: 100%;
@@ -499,7 +515,7 @@ footer p {
     padding: 1em;
   }
   header img {
-    width: 10em;
+    width: 6em;
   }
   #grid img {
     width: 10vw;
