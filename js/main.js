@@ -59,7 +59,7 @@ render = function(el, day) {
 			hash.appendChild(img)
 		}
 
-		talk.appendChild(hash)
+		// talk.appendChild(hash)
 
 		let date = document.createElement("h4");
 		date.appendChild(document.createTextNode(entry.date));		
@@ -76,11 +76,18 @@ render = function(el, day) {
 	}
 }
 
+
 document.addEventListener('DOMContentLoaded', function () {	
 
 	let el = document.getElementById("grid-container");
 	for (let day in schedule) {
 		render(el, day)
 	}
+
+ const turbulence = document.querySelector('feTurbulence');
+
+    setInterval(() => {
+        turbulence.setAttribute('seed', Math.floor(Math.random() * 100));
+    }, 100);
 
 }, false);
