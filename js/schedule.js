@@ -12,7 +12,7 @@ const schedule = {
 	{
 	 "speaker": "Matt Venn",
 	 "title": "Tiny Tapeout - Design Your Own Chip and Get it Made! (Workshop #1)",
-	 "about": "Matt Venn is a science & technology communicator and electronic engineer. He brings 20 years of engineering experience to create innovative learning experiences for people all over the world. Most recently he has been focusing on the world of open source silicon.",
+	 "about": "",
 	 "description": "In this workshop, you can design and manufacture your own chip on an ASIC. You will learn the basics of digital logic, how semiconductors are made, the skills needed to use an online digital design tool for simulation, and how to create the GDS file for manufacturing. Participants will also have the option to submit their designs to be manufactured as part of the Tiny Tapeout project.",
 	 "date": "Friday, November 3, 2023",
 	 "time": "1:00 PM - 2:30 PM",
@@ -21,7 +21,7 @@ const schedule = {
 	{
 	 "speaker": "Matt Venn",
 	 "title": "Tiny Tapeout - Design Your Own Chip and Get it Made!  (Workshop #2)",
-	 "about": "Matt Venn is a science & technology communicator and electronic engineer. He brings 20 years of engineering experience to create innovative learning experiences for people all over the world. Most recently he has been focusing on the world of open source silicon.",
+	 "about": "",
 	 "description": "In this workshop, you can design and manufacture your own chip on an ASIC. You will learn the basics of digital logic, how semiconductors are made, the skills needed to use an online digital design tool for simulation, and how to create the GDS file for manufacturing. Participants will also have the option to submit their designs to be manufactured as part of the Tiny Tapeout project.",
 	 "date": "Friday, November 3, 2023",
 	 "time": "3:00 PM - 4:30 PM",
