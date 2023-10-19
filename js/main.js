@@ -87,7 +87,11 @@ document.addEventListener('DOMContentLoaded', function () {
  const turbulence = document.querySelector('feTurbulence');
 
     setInterval(() => {
-        turbulence.setAttribute('seed', Math.floor(Math.random() * 100));
+	    if (Math.random() < 0.9) {
+	        turbulence.setAttribute('seed', Math.floor(Math.random() * 100));
+	    } else {
+		turbulence.setAttribute('seed', 0);
+	    }
     }, 100);
 
 }, false);
