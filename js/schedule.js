@@ -229,123 +229,149 @@ const schedule = {
 	"Sunday": 
 	[
 	{
-	 "speaker": "Elliot Williams",
-	 "title": "State of the Hackaday",
+	 "speaker": "Doors Open",
+	 "title": "",
 	 "about": "",
-	 "description": "Hackaday turns 19! Hackaday's Editor in Chief celebrates the incredible outpouring of creativity coming from the Hackaday community over the last couple years, and gazes into his crystal ball about future hacks. Will 2022 go down in the history books as the year of the cyberdeck?",
+	 "description": "",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "09:30 AM",
+	 "time": "9:00 AM",
+	 "location": "DesignLab"
+	},		
+	{
+	 "speaker": "Elliot Williams",
+	 "title": "Day 2 Welcome",
+	 "about": "",
+	 "description": "",
+	 "date": "Sunday, November 5, 2023",
+	 "time": "10:00 AM - 10:30 AM",
 	 "location": "LACM"
 	},
 	{
-	 "speaker": "Thea Flowers",
-	 "title": "The Absurd Idea of Rendering KiCAD Projects on The Web",
-	 "about": "",
-	 "description": "Thea is an artist, engineer, writer, and open-source advocate. She creates synthesizers and builds engaging developer experiences. She's currently serving on the board of the Open Source Hardware Association, and she also has an unreasonable fondness for weasels. In her talk, Thea will show real-world applications of interactive web technology, curious facts about KiCAD, and more!",
-	 "date": "Sunday, November 5, 2023",
-	 "time": "10:30 AM - 11:10 AM",
-	 "location": "DesignLab"
-	},	
-	{
-	 "speaker": "Matt Venn",
+	 "speaker": "Andy Geppert",
 	 "title": "Weave Your Own Core Memory - Core16!",
-	 "about": "",
-	 "description": "This workshop provides you with the opportunity to weave your own core memory! Using 16 authentic ferrite core bits and 16 RGB LEDs, you can play tic-tac-toe, paint with a magnetic stylus, and create your own interactive experiences. Andy Geppert will guide you through the assembly of Core16. The Core16 kit is the little brother of the Core64 kit. The smaller Core16 kit reduces assembly time/cost, enabling more people to experience the challenge and satisfaction of creating their own core memory. ",
+	 "about": "Andy is a mechatronics engineer with a formal education in mechanical engineering. He has an insatiable appetite for learning more about aerospace, electronics, and software. He enjoys making new things and sharing them to inspire others.",
+	 "description": "This workshop provides you with the opportunity to weave your own core memory! Using 16 authentic ferrite core bits and 16 RGB LEDs, you can play tic-tac-toe, paint with a magnetic stylus, and create your own interactive experiences. Andy Geppert will guide you through the assembly of Core16. The Core16 kit is the little brother of the Core64 kit. The smaller Core16 kit reduces assembly time/cost, enabling more people to experience the challenge and satisfaction of creating their own core memory.",
 	 "date": "Sunday, November 5, 2023",
 	 "time": "10:00 AM - 12:00 PM",
 	 "location": "Supplyframe HQ 2nd Floor"
-	},		
+	},				
 	{
-	 "speaker": "David Prutchi",
-	 "title": "Receiving Microwave Signals from Deep-Space Probes – Amateur DSN and the Ultimate DX",
+	 "speaker": "Elliot Williams + Guest Speakers",
+	 "title": "Lightning Talks",
 	 "about": "",
-	 "description": "David Prutchi is dedicated to bringing cutting-edge experimental physics, technical photography, and space communications within the grasp of fellow science buffs. He holds a Ph.D. from Tel-Aviv University, and his area of expertise is developing active implantable medical devices. In his talk, David explores how deep space exploration creates new and exciting opportunities in ham radio.",
+	 "description": "",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "11:30 AM - 12:00 PM",
-	 "location": "DesignLab"
-	},					
+	 "time": "10:30 AM - 12:00 PM",
+	 "location": "LACM"
+	},	
 	{
-	 "speaker": "Tom Mloduchowski",
-	 "title": "Hack-own-airplane! Experimental/Amateur-Built aircraft and innovation",
-	 "about": "",
-	 "description": "Tom Mloduchowski is a seasoned electronics engineer and entrepreneur passionate about developing cutting-edge hardware and software solutions. He has spent over a decade working on various innovative projects, from blockchain-based payroll lending to tele-mental health startups. Tom is passionate about aviation and has, in the past, dabbled in general aviation maintenance, experimental aircraft, and electric propulsion. ",
+	 "speaker": "Kuba Tyszko",
+	 "title": "Sudo, Make Me a Coffee: Adventures in Reverse-Engineering a Commercial Coffee Machine",
+	 "about": "Kuba is a natural-born hacker with a penchant for diving into encrypted software in ways it was never meant for. Kuba’s experience includes launching a farming tractor at six, designing their own electronics, and building bicycles.",
+	 "description": "In their talk, they dive into the simplicity of commercial coffee machines and how access to the hardware makes it easy to reverse-engineer the design.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "01:00 PM - 01:40 PM",
+	 "time": "10:30 AM - 10:50 AM",
 	 "location": "DesignLab"
 	},	
 	{
+	 "speaker": "David Prutchi",
+	 "title": "Receiving Microwave Signals from Deep-Space Probes – Amateur DSN and the Ultimate DX",
+	 "about": "David Prutchi is dedicated to bringing cutting-edge experimental physics, technical photography, and space communications within the grasp of fellow science buffs. He holds a Ph.D. from Tel-Aviv University, and his area of expertise is developing active implantable medical devices.",
+	 "description": "In his talk, David explores how deep space exploration creates new and exciting opportunities in ham radio.",
+	 "date": "Sunday, November 5, 2023",
+	 "time": "11:00 AM - 11:40 PM",
+	 "location": "DesignLab"
+	},		
+	{
+	 "speaker": "Break",
+	 "title": "Lunch",
+	 "about": "",
+	 "description": "",
+	 "date": "Sunday, November 5, 2023",
+	 "time": "12:00 PM - 1:00 PM",
+	 "location": "Alleyway behind LACM and DesignLab"
+	},						
+	{
 	 "speaker": "Pierce Nichols",
 	 "title": "Teaching Robots To Sail",
-	 "about": "",
-	 "description": "Pierce is a long-time maker of electronic gizmos and robot boats. He's also built rockets and may have had something to do with the flappy bits on the wings of the last commercial jet you flew on. In his talk, Pierce explains how sailing works, how he went about automating it, and gives some insight into the technology development process.",
+	 "about": "Pierce is a long-time maker of electronic gizmos and robot boats. He's also built rockets and may have had something to do with the flappy bits on the wings of the last commercial jet you flew on.",
+	 "description": "In his talk, Pierce explains how sailing works, how he went about automating it, and gives some insight into the technology development process.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "02:00 PM - 02:20 PM",
+	 "time": "1:00 PM - 1:40 PM",
 	 "location": "LACM"
+	},			
+	{
+	 "speaker": "Tom Mloduchowski",
+	 "title": "Hack-own-airplane! Experimental/Amateur-Built aircraft and innovation",
+	 "about": "Tom Mloduchowski is a seasoned electronics engineer and entrepreneur passionate about developing cutting-edge hardware and software solutions. He has spent over a decade working on various innovative projects, from blockchain-based payroll lending to tele-mental health startups. Tom is passionate about aviation and has, in the past, dabbled in general aviation maintenance, experimental aircraft, and electric propulsion.",
+	 "description": "In this talk, Tom will take the audience through an overview of how to aviate, build, and communicate in the aircraft world.",
+	 "date": "Sunday, November 5, 2023",
+	 "time": "1:00 PM - 1:40 PM",
+	 "location": "DesignLab"
 	},		
 	{
 	 "speaker": "Jesse T. Gonzalez",
 	 "title": "Circuit Boards that Breathe and Bend (A Guide to Electro-Pneumatic Robotic Surfaces)",
-	 "about": "",
-	 "description": "Jesse builds robotic, shape-changing surfaces that enable adaptive environments and tangible user experiences. He’s a PhD candidate at Carnegie Mellon’s Human-Computer Interaction Institute and an off-and-on consultant at Alto Metric Studio. His talk covers pneumatic structures in PCBs that transform rigid boards into dynamic, compact, electro-mechanical devices. Discover how to build, control, and debug electrostatic air valves, using them to create soft robotic surfaces.",
+	 "about": "Jesse builds robotic, shape-changing surfaces that enable adaptive environments and tangible user experiences. He’s a PhD candidate at Carnegie Mellon’s Human-Computer Interaction Institute and an off-and-on consultant at Alto Metric Studio.",
+	 "description": "His talk covers pneumatic structures in PCBs that transform rigid boards into dynamic, compact, electro-mechanical devices. Discover how to build, control, and debug electrostatic air valves, using them to create soft robotic surfaces.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "02:00 PM - 02:20 PM",
+	 "time": "2:00 PM - 2:20 PM",
 	 "location": "LACM"
-	},
+	},	
 	{
 	 "speaker": "Kumar Abhishek",
-	 "title": "Circuit Boards that Breathe and Bend (A Guide to Electro-Pneumatic Robotic Surfaces)",
-	 "about": "",
-	 "description": "Kumar currently lives in India and works for Google as a Software Engineer. They have previously worked for Analog Devices as well. In their talk, they will show the intricacies and lesser-known elements of the PIO and DMA controller of the Raspberry Pi Pico.",
+	 "title": "Going into Deep (logic) Waters With The Raspberry Pi Pico's PIO and The Pi's SMI",
+	 "about": "Kumar lives in India and works for Google as a Software Engineer. They have previously worked for Analog Devices as well.",
+	 "description": "In their talk, they will show the intricacies and lesser-known elements of the PIO and DMA controller of the Raspberry Pi Pico.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "02:30 PM - 03:10 PM",
-	 "location": "LACM"
-	},
+	 "time": "2:30 PM - 3:10 PM",
+	 "location": "DesignLab"
+	},		
 	{
 	 "speaker": "Marc Verdiell",
 	 "title": "Restoring the Apollo Guidance Computer",
-	 "about": "",
-	 "description": "Marc, also known as CuriousMarc from the CuriousMarc YouTube channel, specializes in restoring rare and notable vintage electronics. His projects include Apollo space electronics, the Xerox Alto computer, IBM mainframes, and HP instruments, to name a few. Marc’s talk will take the audience through the epic restoration of a genuine Apollo Guidance Computer, the revolutionary technology that guided man to the Moon and back.",
+	 "about": "Marc, also known as CuriousMarc from the CuriousMarc YouTube channel, specializes in restoring rare and notable vintage electronics. His projects include Apollo space electronics, the Xerox Alto computer, IBM mainframes, and HP instruments, to name a few.",
+	 "description": "Marc’s talk will take the audience through the epic restoration of a genuine Apollo Guidance Computer, the revolutionary technology that guided man to the Moon and back.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "02:30 PM - 03:10 PM",
-	 "location": "DesignLab"
-	},			
+	 "time": "2:30 PM - 3:10 PM",
+	 "location": "LACM"
+	},	
 	{
 	 "speaker": "Shawn Hymel",
 	 "title": "Tiny Reinforcement Learning in Robotics",
-	 "about": "",
-	 "description": "Shawn is a machine learning DevRel engineer, instructor, and university program manager at Edge Impulse. He creates compelling technical videos, courses, and workshops around edge machine learning that inspire engineers of all skill levels. In his talk, Shawn will provide an overview of reinforcement learning, how it’s used in robotics, its shortcomings, and why we shouldn’t give up on classical control theory yet.",
+	 "about": "Shawn is a machine learning DevRel engineer, instructor, and university program manager at Edge Impulse. He creates compelling technical videos, courses, and workshops around edge machine learning that inspire engineers of all skill levels.",
+	 "description": "In his talk, Shawn will provide an overview of reinforcement learning, how it’s used in robotics, its shortcomings, and why we shouldn’t give up on classical control theory yet.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "03:30 PM - 3:50 PM",
+	 "time": "3:30 PM - 3:50 PM",
 	 "location": "LACM"
 	},		
 	{
 	 "speaker": "Bob Hickman",
 	 "title": "The Bits and Bytes of Bringing Arcade Classics to Game Consoles",
-	 "about": "",
-	 "description": "Bob is a game industry veteran with many shipped titles across all major platforms. He was also a Disney Imagineer, working on high-profile interactive attractions for several years. He’s currently a technology director in the automotive AI space. His talk is about retro programming technology, making tools for reverse engineering, and getting things working without source code.",
+	 "about": "Bob is a game industry veteran with many shipped titles across all major platforms. He was also a Disney Imagineer, working on high-profile interactive attractions for several years. He’s currently a technology director in the automotive AI space.",
+	 "description": "His talk is about retro programming technology, making tools for reverse engineering, and getting things working without source code.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "03:30 PM - 3:50 PM",
+	 "time": "3:30 PM - 3:50 PM",
 	 "location": "DesignLab"
 	},
 	{
 	 "speaker": "Angela Sheehan",
 	 "title": "Cuddly Companion Bots: A Whimsical Adventure",
-	 "about": "",
-	 "description": "Angela (Gella) is a maker, artist, and educator passionate about wearable technology, product design, and digital fabrication. She has been working with craft tech and wearables since 2005, worked in the education department at SparkFun Electronics, and is currently a Creative Technologist at a public library makerspace. Her talk shows how companion projects are a great project for everyone, not just programmers.",
+	 "about": "Angela (Gella) is a maker, artist, and educator passionate about wearable technology, product design, and digital fabrication. She has been working with craft tech and wearables since 2005, worked in the education department at SparkFun Electronics, and is currently a Creative Technologist at a public library makerspace.",
+	 "description": "Her talk shows how companion projects are great for everyone, not just programmers, 3D printing enthusiasts, or engineers. Discover new techniques for creating non-traditional robots our of craft materials.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "04:00 PM - 04:40 PM",
+	 "time": "4:00 PM - 4:40 PM",
 	 "location": "LACM"
-	},
+	},		
 	{
-	 "speaker": "Kuba Tyszko",
-	 "title": "Sudo, Make Me a Coffee: Adventures in Reverse-Engineering a Commercial Coffee Machine",
-	 "about": "",
-	 "description": "Kuba is a natural-born hacker with a penchant for diving into encrypted software in ways it was never meant for. Kuba’s experience includes launching a farming tractor at six, designing their own electronics, and building bicycles. In their talk, they dive into the simplicity of commercial coffee machines and how access to the hardware makes it easy to reverse engineer the design. ",
+	 "speaker": "Thea Flowers",
+	 "title": "The Absurd Idea of Rendering KiCAD Projects on The Web",
+	 "about": "Thea is an artist, engineer, writer, and open-source advocate. She creates synthesizers and builds engaging developer experiences. She's currently serving on the board of the Open Source Hardware Association, and she also has an unreasonable fondness for weasels.",
+	 "description": "In her talk, Thea will show real-world applications of interactive web technology, curious facts about KiCAD, and more!",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "04:00 PM - 04:20 PM",
+	 "time": "4:00 PM - 4:40 PM",
 	 "location": "DesignLab"
-	},
-
+	},	
 	{
 	 "speaker": "Bob Hickman",
 	 "title": "The Bits and Bytes of Bringing Arcade Classics to Game Consoles",
