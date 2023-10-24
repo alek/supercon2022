@@ -84,14 +84,14 @@ document.addEventListener('DOMContentLoaded', function () {
 		render(el, day)
 	}
 
- const turbulence = document.querySelector('feTurbulence');
+ // const turbulence = document.querySelector('feTurbulence');
 
-    setInterval(() => {
-	    if (Math.random() < 0.9) {
-	        turbulence.setAttribute('seed', Math.floor(Math.random() * 100));
-	    } else {
-		turbulence.setAttribute('seed', 0);
-	    }
-    }, 100);
+ //    setInterval(() => {
+	//     if (Math.random() < 0.9) {
+	//         turbulence.setAttribute('seed', Math.floor(Math.random() * 100));
+	//     } else {
+	// 	turbulence.setAttribute('seed', 0);
+	//     }
+ //    }, 100);
 
 }, false);
