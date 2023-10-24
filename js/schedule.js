@@ -1,12 +1,21 @@
 const schedule = {
 	"Friday": [
 	{
-	 "speaker": "2022 Supercon begins",
-	 "title": "Early Check-In + Breakfast",
+	 "speaker": "2023 Supercon begins",
+	 "title": "Registration Opens",
 	 "about": "",
 	 "description": "",
 	 "date": "Friday, November 3, 2023",
-	 "time": "9:00 AM",
+	 "time": "9:00 AM - 5:00 PM",
+	 "location": "Supplyframe HQ 3rd Floor"
+	},
+	{
+	 "speaker": "Badge Hacking",
+	 "title": "Badge Hacking at the Supplyframe HQ",
+	 "about": "",
+	 "description": "",
+	 "date": "Friday, November 3, 2023",
+	 "time": "10:00 AM - 5:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},
 	{
@@ -29,11 +38,11 @@ const schedule = {
 	},
 	{
 	 "speaker": "Ignite",
-	 "title": "Opening Party",
+	 "title": "Welcome Party",
 	 "about": "",
 	 "description": "",
 	 "date": "Friday, November 3, 2023",
-	 "time": "6:00 PM",
+	 "time": "05:00 PM - 10:00 PM",
 	 "location": "Supplyframe HQ 3rd Floor"
 	},
 	],
