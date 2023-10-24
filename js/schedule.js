@@ -2,7 +2,7 @@ const schedule = {
 	"Friday": [
 	{
 	 "speaker": "2023 Supercon begins",
-	 "title": "Registration Opens",
+	 "title": "Registration Open 9AM - 5PM",
 	 "about": "",
 	 "description": "",
 	 "date": "Friday, November 3, 2023",
@@ -53,23 +53,23 @@ const schedule = {
 	 "about": "",
 	 "description": "Design's Lab Director and Hackaday's Editor in Chief welcome you to the 2022 Hackaday Superconference.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "09:30 AM",
+	 "time": "09:30 AM - 10:00 AM",
 	 "location": "LACM"
 	},
 	{
 	 "speaker": "Cory Doctorow",
 	 "title": "An Audacious Plan to Halt the Internet’s Enshittification and Throw It Into Reverse",
-	 "about": "",
-	 "description": "",
+	 "about": "Cory Doctorow is a science fiction author, activist, and journalist. His most recent works are THE INTERNET CON: HOW TO SEIZE THE MEANS OF COMPUTATION, a Big Tech disassembly manual, and RED TEAM BLUES, a science fiction crime thriller. In 2020, he was inducted into the Canadian Science Fiction and Fantasy Hall of Fame. ",
+	 "description": "The enshittification of the internet follows a predictable trajectory: first, platforms are good to their users; then, they abuse their users to make things better for their business customers; finally, they abuse those business customers to take back value for themselves. In his talk, Cory will take the audience through the process of disenshittifying the internet via antitrust, limits on corporate tweaking, privacy laws, and other protections.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "10:00 AM",
+	 "time": "10:00 AM - 11:00 AM",
 	 "location": "LACM"
 	},
 	{
 	 "speaker": "Benedetta Lia Mandelli",
 	 "title": "Soft Actuator Orthosis",
-	 "about": "",
-	 "description": "Benedetta is a passionate biomedical engineering student at Politecnico Di Milano, driven to ignite social change through accessible medical advancements, especially in underserved areas. She is currently focused on the world of biomedical electronic technologies. In her talk, she’ll unravel the mysteries of this dynamic field and push the boundaries of what's possible, delving into the design and development of a prototype orthosis and its unique features. ",
+	 "about": "Benedetta is a passionate biomedical engineering student at Politecnico Di Milano, driven to ignite social change through accessible medical advancements, especially in underserved areas. She is currently focused on the world of biomedical electronic technologies.",
+	 "description": "In her talk, she’ll unravel the mysteries of this dynamic field and push the boundaries of what's possible, delving into the design and development of a prototype orthosis and its unique features.",
 	 "date": "Saturday, November 4, 2023",
 	 "time": "11:00 AM - 11:20 AM",
 	 "location": "LACM"
@@ -77,119 +77,143 @@ const schedule = {
 	{
 	 "speaker": "Andrew Denio",
 	 "title": "Automate Your Workflow for Tindie and other Marketplaces",
-	 "about": "",
-	 "description": "Andrew (aka MakeItHackin) is a hardware enthusiast, maker, and tinkerer. He became involved with #BadgeLife two years ago and enjoys creating blinky badges yearly for conferences. His talk discusses creating and selling on marketplaces like Tindie, providing valuable advice for those seeking to sell their own hardware projects.",
+	 "about": "Andrew (aka MakeItHackin) is a hardware enthusiast, maker, and tinkerer. He became involved with #BadgeLife two years ago and enjoys creating blinky badges yearly for conferences.",
+	 "description": "His talk discusses creating and selling on marketplaces like Tindie, providing valuable advice for those seeking to sell their own hardware projects. ",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "10:00 AM - 11:20 AM",
+	 "time": "11:00 AM - 11:40 AM",
 	 "location": "DesignLab"
 	},					
 	{
 	 "speaker": "Eric Andersson",
 	 "title": "A Makers Guide To Designing Sheet Metal Electronics Enclosures",
-	 "about": "",
-	 "description": "Eric is an ex-mini donut salesman who studied mechanical engineering at the University of Toronto. He's spent his post-donut career figuring out how to put electronics into boxes. You'll find him obsessing over old camera lenses and rabbits with pointy ears when he's not doing that. His talk showcases why sheet metal design is a skill worth learning and why it’s cheaper and more accessible than ever.",
+	 "about": "Eric is an ex-mini donut salesman who studied mechanical engineering at the University of Toronto. He's spent his post-donut career figuring out how to put electronics into boxes. You'll find him obsessing over old camera lenses and rabbits with pointy ears when he's not doing that.",
+	 "description": "His talk showcases why sheet metal design is worth learning and why it’s cheaper and more accessible than ever.",
 	 "date": "Saturday, November 4, 2023",
 	 "time": "11:30 AM - 11:50 AM",
 	 "location": "LACM"
 	},				
 	{
+	 "speaker": "Break",
+	 "title": "Lunch",
+	 "about": "",
+	 "description": "",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "12:00 PM - 1:00 PM",
+	 "location": "Alleyway behind LACM and DesignLab"
+	},				
+	{
 	 "speaker": "Ben Combee",
 	 "title": "A Hacker’s Guide to Audio/Video Formats",
-	 "about": "Ben Combee is a senior software engineer at Roku, working on their OS for streaming devices. In past roles, he's worked on mobile web browsers for Mozilla, Linux-powered handhelds at Palm, JavaScript frameworks at HP, and more. His talk is for electronics hardware and firmware developers who want to learn how to make audio and video work together on cheap hardware!",
-	 "description": "Hackers are amazing at creating our own incredible adventures, and we need to get better at sharing our own stories and hacks with the world. I want to inspire and teach you to make great videos - using engineering and hacking skills you already have to tell great stories.",
+	 "about": "Ben Combee is a senior software engineer at Roku, working on their OS for streaming devices. In past roles, he's worked on mobile web browsers for Mozilla, Linux-powered handhelds at Palm, JavaScript frameworks at HP, and more.",
+	 "description": "His talk is for electronics hardware and firmware developers who want to learn how to make audio and video work together on cheap hardware!",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "01:00 PM - 01:20 PM",
-	 "location": "LACM"
-	},
-	{
-	 "speaker": "Nathan Jones",
-	 "title": "Inside the Voja4",
-	 "about": "",
-	 "description": "Nathan Jones is an active-duty Army officer and Assistant Professor at West Point Military Academy. He earned his bachelor's degree in Engineering from Harvey Mudd College and his master's degree in Computer Engineering from North Carolina State University. One of Nathan's favorite things to do is make neat electronic devices and then teach people how to do the same.",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "01:00 PM - 01:40 PM",
-	 "location": "DesignLab"
-	},		
-	{
-	 "speaker": "Jakub and Szymon Duchniewicz",
-	 "title": "Porting an AI Powered Wearable Health Monitor to Zephyr on Open Hardware",
-	 "about": "",
-	 "description": "Jakub is an MSc in Embedded Systems graduate with a minor in Innovation and Entrepreneurship. He works as an engineer and team leader at Tietoevry, where he honed his low-level skills by developing L1 features for 5G NR. In this talk, audience members will discover how deploying AI models on hardware is more accessible than most people realize.",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "01:30 PM - 02:10 PM",
-	 "location": "LACM"
-	},
-	{
-	 "speaker": "Programming Your Human Hardware Compilers, or the Road to Writing Great Step-by-Step Instructions",
-	 "title": "Joshua Vasquez",
-	 "about": "",
-	 "description": "At his day job, Joshua generally automates hardware with software and rolling out the occasional circuit board for ad-hoc scientific instruments. By night, he’s often tinkering with something with a strong tendency to either autonomously roll off my desk or drill holes in itself. In his talk, Joshua will share how to write step-by-step instructions in a way that builds community and avoids burnout. ",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "02:00 PM - 02:40 PM",
-	 "location": "DesignLab"
-	},		
-	{
-	 "speaker": "Max Shirokawa",
-	 "title": "OpenQuantum: Open-source Atom Trapping For Education and Entrepreneurship",
-	 "about": "",
-	 "description": "Max is a graduate student in EECS, a CNC machinist, and an open-source maker. He enjoys working at the intersection of art, industrial design, optics, and materials science. In his talk, Max will demonstrate how quantum mechanics can be observed and controlled without needing expensive equipment or a mastery of the concepts.",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "03:30 PM - 04:10 PM",
-	 "location": "DesignLab"
-	},		
-	{
-	 "speaker": "James Lewis",
-	 "title": "Building The Apple II Computer That Apple Intended But Never Did",
-	 "about": "",
-	 "description": "James Lewis is the Bald Engineer from the YouTube channel AddOhms and the host of element14 Presents. His interest includes talking too much about capacitors, repairing vintage computers, and making unique PCBs. In his talk, James will show the value of using older designs to learn new skills and feature tools that are useful when reverse engineering electronics. ",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "04:30 PM - 05:10 PM",
-	 "location": "DesignLab"
-	},
-	{
-	 "speaker": "Aleksa Bjelogrlic",
-	 "title": "A Circuit to Measure Circuits: How do Oscilloscopes do it?",
-	 "about": "",
-	 "description": "Aleksa is an electrical engineer who loves test equipment and open-source hardware. For the last five years, he has been combining those two passions to design an open-source oscilloscope from the ground up to be faster, more flexible, and accessible to all. In his talk, he’ll explain how passive components are not what they seem and showcase frequency response measurement on high-impedance inputs. ",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "01:00 PM - 01:20 PM",
+	 "time": "1:00 PM - 1:20 PM",
 	 "location": "LACM"
 	},
 	{
 	 "speaker": "Alex Lynd",
 	 "title": "Wireless Hacking on a $5 Budget (with Microcontrollers)",
-	 "about": "",
-	 "description": "Alex Lynd is a hardware hacker & cybersecurity instructor who builds low-cost wireless hacks and environmental-focused projects at LyndLabs. He creates educational hacking videos & cybersecurity content for beginners on shows like Hak5. His talk will show how anyone can start hacking using low-cost hardware. ",
+	 "about": "Alex Lynd is a hardware hacker & cybersecurity instructor who builds low-cost wireless hacks and environmental-focused projects at LyndLabs. He creates educational hacking videos & cybersecurity content for beginners on shows like Hak5.",
+	 "description": "In his talk, Alex will show how anyone can start hacking using low-cost hardware, including an overview of his favorite boards and resources. Learn how low-cost components make domains like cybersecurity education more accessible.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "03:00 PM - 03:40 PM",
+	 "time": "1:00 PM - 1:30 PM",
 	 "location": "DesignLab"
+	},		
+	{
+	 "speaker": "Jakub and Szymon Duchniewicz",
+	 "title": "Porting an AI Powered Wearable Health Monitor to Zephyr on Open Hardware",
+	 "about": "Jakub is an MSc in Embedded Systems graduate with a minor in Innovation and Entrepreneurship. He works as an engineer and team leader at Tietoevry, where he honed his low-level skills by developing L1 features for 5G NR.",
+	 "description": "In this talk, audience members will discover how deploying AI models on hardware is more accessible than most people realize.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "1:30 PM - 2:10 PM",
+	 "location": "LACM"
 	},
 	{
 	 "speaker": "Ashwin Whitchurch",
 	 "title": "How the HealthyPi Went From an Open-Source Concept to a Production-Grade Research Platform",
-	 "about": "",
-	 "description": "Ashwin is a software and hardware engineer by education and profession, with Masters degrees in both subjects. He is part of a company called ProtoCentral Electronics, which is focused on open-source healthcare applications. This talk is the story of HealthyPi, which took home the second-place award in the 2017 Hackaday Prize. ",
+	 "about": "Ashwin is a software and hardware engineer by education and profession, with Masters degrees in both subjects. He is part of a company called ProtoCentral Electronics, which is focused on open-source healthcare applications.",
+	 "description": "This talk is the story of HealthyPi, which took home the second-place award in the 2017 Hackaday Prize.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "03:00 PM - 03:40 PM",
-	 "location": "LACM"
+	 "time": "1:30 PM - 2:10 PM",
+	 "location": "DesignLab"
 	},
+	{
+	 "speaker": "Aleksa Bjelogrlic",
+	 "title": "A Circuit to Measure Circuits: How do Oscilloscopes do it?",
+	 "about": "Aleksa is an electrical engineer who loves test equipment and open-source hardware. For the last five years, he has been combining those two passions to design an open-source oscilloscope from the ground up to be faster, more flexible, and accessible to all.",
+	 "description": "In his talk, he’ll explain how passive components are not what they seem and showcase frequency response measurement on high-impedance inputs.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "2:30 PM - 2:50 PM",
+	 "location": "LACM"
+	},		
+	{
+	 "speaker": "Jose Angel Torres",
+	 "title": "Building a Junkyard Secure Phone in China",
+	 "about": "Jose has spent five years navigating every square inch of the world's electronics markets in Huaqiangbei, Shenzhen, China. Jose is fluent in spoken Chinese, allowing him unprecedented access to second-hand cellphone purchasing and repair, IC refurbishment, PCBA assembly, complete product reverse-engineering, cloning, and chip cracking.",
+	 "description": "Jose’s talk will cover topics like making everyday devices more secure, the world of reverse engineering, and sourcing parts in China. ",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "2:30 PM - 2:50 PM",
+	 "location": "DesignLab"
+	},		
+	{
+	 "speaker": "Programming Your Human Hardware Compilers, or the Road to Writing Great Step-by-Step Instructions",
+	 "title": "Joshua Vasquez",
+	 "about": "At his day job, Joshua generally automates hardware with software and rolling out the occasional circuit board for ad-hoc scientific instruments. By night, he’s often tinkering with something with a strong tendency to either autonomously roll off my desk or drill holes in itself. ",
+	 "description": "In his talk, Joshua will share how to write step-by-step instructions in a way that builds community and avoids burnout.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "3:00 PM - 03:40 PM",
+	 "location": "LACM"
+	},		
+	{
+	 "speaker": "Max Shirokawa",
+	 "title": "OpenQuantum: Open-source Atom Trapping For Education and Entrepreneurship",
+	 "about": "Max is a graduate student in EECS, a CNC machinist, and an open-source maker. He enjoys working at the intersection of art, industrial design, optics, and materials science.",
+	 "description": "In his talk, Max will demonstrate how quantum mechanics can be observed and controlled without needing expensive equipment or a mastery of the concepts.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "3:30 PM - 3:40 PM",
+	 "location": "DesignLab"
+	},			{
+	 "speaker": "Nathan Jones",
+	 "title": "Inside the Voja4",
+	 "about": "Nathan Jones is an active-duty Army officer and Assistant Professor at West Point Military Academy. He earned his bachelor's degree in Engineering from Harvey Mudd College and his master's degree in Computer Engineering from North Carolina State University. One of Nathan's favorite things is making neat electronic devices and then teaching people how to do the same.",
+	 "description": "In his talk, Nathan will showcase what makes a computer “Turing complete,” how to program the Voja4 by understanding the ISA and assembly tricks, and the benefits of learning to program in an assembly language.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "4:00 PM - 4:40 PM",
+	 "location": "DesignLab"
+	},				
 	{
 	 "speaker": "Jeroen Domburg",
 	 "title": "Building a Portable Vectrex, The Right Way",
-	 "about": "",
-	 "description": "Jeroen Domburg, or Sprite_tm, is a hardware and software hacker. His projects have been featured on Hackaday numerous times, and he regularly speaks at Hackaday Supercon. This year, his talk will showcase the novelty of Vectrex and explore a project that drives CRTs in an entirely new way. ",
+	 "about": "Jeroen Domburg, or Sprite_tm, is a hardware and software hacker. His projects have been featured on Hackaday numerous times, and he regularly speaks at Hackaday Supercon.",
+	 "description": "This year, his talk will showcase the novelty of Vectrex and explore a project that drives CRTs in an entirely new way.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "04:00 PM - 04:40 PM",
+	 "time": "4:00 PM - 4:40 PM",
 	 "location": "LACM"
 	},
-				
 	{
+	 "speaker": "Mark J. Hughes",
+	 "title": "The Hackaday Prize - One Year of Progress for Project Boondock Echo",
+	 "about": " Mark Hughes is a former physics teacher, technical editor for AllAboutCircuits.com, technical writer for PCB Fab and Assembly houses, and is currently the project manager for a stealth startup. He's also co-founder of Boondock Echo - a web-enabled recording device for two-way radios that took home the fourth-place award at the 2022 Hackaday Prize ceremony.",
+	 "description": "In his talk, Mark will take the audience through his journey of building a team, setting achievable goals, and how to turn an idea into a full-fledged product.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "5:00 PM - 05:40 PM",
+	 "location": "LACM"
+	},						
+	{
+	 "speaker": "James Lewis",
+	 "title": "Building The Apple II Computer That Apple Intended But Never Did",
+	 "about": "James Lewis is the Bald Engineer from the YouTube channel AddOhms and the host of element14 Presents. His interests include talking too much about capacitors, repairing vintage computers, and making unique PCBs.",
+	 "description": "In his talk, James will show the value of using older designs to learn new skills and useful feature tools when reverse engineering electronics.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "5:00 PM - 05:40 PM",
+	 "location": "DesignLab"
+	},					{
 	 "speaker": "Hackaday Prize",
 	 "title": "Hackaday Prize Awards Ceremony",
 	 "about": "The entire year has been building to this moment! Find out which projects will take home awards from each of the year’s Hackaday Prize challenges.",
 	 "description": "Learn more about the winners, and experience one of the most exciting moments Supercon has to offer! ",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "7:00 PM",
+	 "time": "6:00 PM - 7:00 PM",
 	 "location": "LACM"
 	},
 	{
@@ -198,7 +222,7 @@ const schedule = {
 	 "about": "",
 	 "description": "",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "8:00 PM",
+	 "time": "7:00 PM - 11:00 PM",
 	 "location": "DesignLab"
 	}	
 	],
@@ -275,15 +299,6 @@ const schedule = {
 	 "date": "Sunday, November 5, 2023",
 	 "time": "02:30 PM - 03:10 PM",
 	 "location": "LACM"
-	},
-	{
-	 "speaker": "Jose Angel Torres",
-	 "title": "Building a Junkyard Secure Phone in China",
-	 "about": "",
-	 "description": "Jose has spent the past five years navigating every square inch of the world's electronics markets in Huaqiangbei, Shenzhen, China. Jose is fluent in spoken Chinese, allowing him unprecedented access to second-hand cellphone purchasing and repair, IC refurbishment, PCBA assembly, complete product reverse-engineering, cloning, and chip cracking. His talk covers making everyday devices more secure and sourcing parts in China.",
-	 "date": "Sunday, November 5, 2023",
-	 "time": "02:00 PM - 02:20 PM",
-	 "location": "DesignLab"
 	},
 	{
 	 "speaker": "Marc Verdiell",
