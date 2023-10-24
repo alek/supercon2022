@@ -66,6 +66,15 @@ const schedule = {
 	 "location": "LACM"
 	},
 	{
+	 "speaker": "Jazmin Hernandez",
+	 "title": "Solder and Learn How to Use Your Own Anti-Skimmer (HunterCat)",
+	 "about": "Jazmin is an Electronic Engineer, current Support Area Leader at Electronic Cats, and content creator for the Spanish-speaking community, developing projects between different areas of study to bring students and enthusiasts closer to technology, electronics, and the maker community. My hobby is learning languages, as well as their cultures.",
+	 "description": "Have you ever been vulnerable to data theft? Do you fear using your bank card in ATMs or even in a restaurant? Protect your information from potential skimmers in this workshop while you learn to solder some components of your anti-skimmer/magnetic stripe clone detectors. By the end of the workshop, you’ll have a device to insert before using your bank card to check for potential issues.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "10:00 AM - 12:00 PM",
+	 "location": "Supplyframe HQ 2nd Floor"
+	},								
+	{
 	 "speaker": "Benedetta Lia Mandelli",
 	 "title": "Soft Actuator Orthosis",
 	 "about": "Benedetta is a passionate biomedical engineering student at Politecnico Di Milano, driven to ignite social change through accessible medical advancements, especially in underserved areas. She is currently focused on the world of biomedical electronic technologies.",
@@ -82,7 +91,16 @@ const schedule = {
 	 "date": "Saturday, November 4, 2023",
 	 "time": "11:00 AM - 11:40 AM",
 	 "location": "DesignLab"
-	},					
+	},	
+	{
+	 "speaker": "Daniel Lindmark (Co-speaker Kyle Dumont)",
+	 "title": "From Zero to Git: 1 Hour Hardware Git Bootcamp",
+	 "about": "Daniel Lindmark helps companies design and manufacture electronics. He has experience in new product development, manufacturing, circuit design, embedded development, software development, and more.",
+	 "description": "In this workshop, you will learn all about basic git operations, including how to download and install the client, setting up a repo, synching changes, and much more. Learn how to navigate common issues and take advantage of a live FAQ during the workshop.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "11:00 AM - 12:00 PM",
+	 "location": "Supplyframe HQ 2nd Floor"
+	},						
 	{
 	 "speaker": "Eric Andersson",
 	 "title": "A Makers Guide To Designing Sheet Metal Electronics Enclosures",
@@ -119,6 +137,25 @@ const schedule = {
 	 "time": "1:00 PM - 1:30 PM",
 	 "location": "DesignLab"
 	},		
+	{
+	 "speaker": "Becky Button",
+	 "title": "How to Make a Custom Guitar Pedal",
+	 "about": "Becky Button is an electrical engineer and experimental electronic musician. She has been involved in the maker scene since 2012 when she got into 3D printing and built a myoelectric prosthesis. Since then, she's been involved in many projects ranging from wi-fi deauthing sandals to helping build a semiconductor fab at Carnegie Mellon.",
+	 "description": "Musical effects are for everybody! Join this workshop and get hands-on experience assembling and programming your musical effects pedals. Walk away from this workshop with the capability of integrating multiple musical effects into 1 device and reprogramming the pedal with any effects you want!",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "1:00 PM - 3:00 PM",
+	 "location": "Supplyframe HQ 2nd Floor"
+	},		
+
+	{
+	 "speaker": "Travis Foss",
+	 "title": "Presented by DigiKey: Introduction and expansion of the XRP Robotics Platform",
+	 "about": "Travis is the Technical Marketing Specialist at Digi-Key Electronics. He’s an experienced information management specialist with experience working in the electrical and electronics manufacturing industry.",
+	 "description": "In this workshop, you can get your hands on the new XRP (Experiential Robotics Platform) and take the basics a step further with a few additional parts. Along with the base kit, participants will have the opportunity to install an RGB twist encoder, an LCD screen, and a buzzer to create a setup that will allow the user to choose a program onboard without being tethered to a computer.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "1:00 PM - 3:00 PM",
+	 "location": "Supplyframe HQ 3rd Floor"
+	},										
 	{
 	 "speaker": "Jakub and Szymon Duchniewicz",
 	 "title": "Porting an AI Powered Wearable Health Monitor to Zephyr on Open Hardware",
@@ -371,16 +408,6 @@ const schedule = {
 	 "date": "Sunday, November 5, 2023",
 	 "time": "4:00 PM - 4:40 PM",
 	 "location": "DesignLab"
-	},	
-	{
-	 "speaker": "Bob Hickman",
-	 "title": "The Bits and Bytes of Bringing Arcade Classics to Game Consoles",
-	 "about": "Kuba is a natural born hacker with a penchant for diving into encrypted software in ways it was never meant for. Kuba’s experience includes launching a farming tractor at the age of 6, designing their own electronics, and building bicycles.",
-	 "description": "This talk is an illustrated approach to cracking encrypted software in various creative ways. As a bonus, the talk also includes fun references to old computers.",
-	 "date": "Sunday, November 5, 2023",
-	 "time": "11:00 AM",
-	 "location": "DesignLab"
-	},		
-
+	}
 ]
 }
