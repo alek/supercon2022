@@ -90,7 +90,7 @@ const schedule = {
 	 "description": "In this workshop, you will learn all about basic git operations, including how to download and install the client, setting up a repo, synching changes, and much more. Learn how to navigate common issues and take advantage of a live FAQ during the workshop.",
 	 "date": "Saturday, November 4, 2023",
 	 "time": "11:00 AM - 12:00 PM",
-	 "location": "Supplyframe HQ 2nd Floor"
+	 "location": "Supplyframe HQ 3rd Floor"
 	},						
 	{
 	 "speaker": "Eric Andersson",
@@ -399,6 +399,16 @@ const schedule = {
 	 "date": "Sunday, November 5, 2023",
 	 "time": "4:00 PM - 4:40 PM",
 	 "location": "DesignLab"
-	}
+	},
+
+	{
+	 "speaker": "Everyone",
+	 "title": "Badge Hacking Ceremony",
+	 "about": "",
+	 "description": "",
+	 "date": "Sunday, November 5, 2023",
+	 "time": "5:30 PM - 6:30 PM",
+	 "location": "LACK"
+	}		
 ]
 }
