@@ -408,7 +408,7 @@ const schedule = {
 	 "description": "",
 	 "date": "Sunday, November 5, 2023",
 	 "time": "5:30 PM - 6:30 PM",
-	 "location": "LACK"
+	 "location": "LACM"
 	}		
 ]
 }
