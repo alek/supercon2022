@@ -42,7 +42,7 @@ const schedule = {
 	 "speaker": "Majenta Strongheart and Elliot Williams",
 	 "title": "Welcome and Orientation",
 	 "about": "",
-	 "description": "Design's Lab Director and Hackaday's Editor in Chief welcome you to the 2022 Hackaday Superconference.",
+	 "description": "DesignLab Director and Hackaday's Editor in Chief welcome you to the 2022 Hackaday Superconference.",
 	 "date": "Saturday, November 4, 2023",
 	 "time": "09:30 AM - 10:00 AM",
 	 "location": "LACM"
