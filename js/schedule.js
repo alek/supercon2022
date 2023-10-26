@@ -184,8 +184,8 @@ const schedule = {
 	 "location": "DesignLab"
 	},		
 	{
-	 "speaker": "Programming Your Human Hardware Compilers, or the Road to Writing Great Step-by-Step Instructions",
-	 "title": "Joshua Vasquez",
+	 "speaker": "Joshua Vasquez",
+	 "title": "Programming Your Human Hardware Compilers, or the Road to Writing Great Step-by-Step Instructions",
 	 "about": "At his day job, Joshua generally automates hardware with software and rolling out the occasional circuit board for ad-hoc scientific instruments. By night, he’s often tinkering with something with a strong tendency to either autonomously roll off my desk or drill holes in itself. ",
 	 "description": "In his talk, Joshua will share how to write step-by-step instructions in a way that builds community and avoids burnout.",
 	 "date": "Saturday, November 4, 2023",
@@ -307,7 +307,7 @@ const schedule = {
 	 "about": "David Prutchi is dedicated to bringing cutting-edge experimental physics, technical photography, and space communications within the grasp of fellow science buffs. He holds a Ph.D. from Tel-Aviv University, and his area of expertise is developing active implantable medical devices.",
 	 "description": "In his talk, David explores how deep space exploration creates new and exciting opportunities in ham radio.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "11:00 AM - 11:40 PM",
+	 "time": "11:00 AM - 11:40 AM",
 	 "location": "DesignLab"
 	},		
 	{
