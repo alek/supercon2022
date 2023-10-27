@@ -57,15 +57,6 @@ const schedule = {
 	 "location": "LACM"
 	},
 	{
-	 "speaker": "Jazmin Hernandez",
-	 "title": "Solder and Learn How to Use Your Own Anti-Skimmer (HunterCat)",
-	 "about": "Jazmin is an Electronic Engineer, current Support Area Leader at Electronic Cats, and content creator for the Spanish-speaking community, developing projects between different areas of study to bring students and enthusiasts closer to technology, electronics, and the maker community. My hobby is learning languages, as well as their cultures.",
-	 "description": "Have you ever been vulnerable to data theft? Do you fear using your bank card in ATMs or even in a restaurant? Protect your information from potential skimmers in this workshop while you learn to solder some components of your anti-skimmer/magnetic stripe clone detectors. By the end of the workshop, you’ll have a device to insert before using your bank card to check for potential issues.",
-	 "date": "Saturday, November 4, 2023",
-	 "time": "10:00 AM - 12:00 PM",
-	 "location": "Supplyframe HQ 2nd Floor"
-	},								
-	{
 	 "speaker": "Benedetta Lia Mandelli",
 	 "title": "Soft Actuator Orthosis",
 	 "about": "Benedetta is a passionate biomedical engineering student at Politecnico Di Milano, driven to ignite social change through accessible medical advancements, especially in underserved areas. She is currently focused on the world of biomedical electronic technologies.",
@@ -75,7 +66,7 @@ const schedule = {
 	 "location": "LACM"
 	},		
 	{
-	 "speaker": "Andrew Denio",
+	 "speaker": "Andrew [MakeItHackin]",
 	 "title": "Automate Your Workflow for Tindie and other Marketplaces",
 	 "about": "Andrew (aka MakeItHackin) is a hardware enthusiast, maker, and tinkerer. He became involved with #BadgeLife two years ago and enjoys creating blinky badges yearly for conferences.",
 	 "description": "His talk discusses creating and selling on marketplaces like Tindie, providing valuable advice for those seeking to sell their own hardware projects. ",
@@ -184,10 +175,10 @@ const schedule = {
 	 "location": "DesignLab"
 	},		
 	{
-	 "speaker": "Joshua Vasquez",
+	 "speaker": "Sonya Vasquez",
 	 "title": "Programming Your Human Hardware Compilers, or the Road to Writing Great Step-by-Step Instructions",
-	 "about": "At his day job, Joshua generally automates hardware with software and rolling out the occasional circuit board for ad-hoc scientific instruments. By night, he’s often tinkering with something with a strong tendency to either autonomously roll off my desk or drill holes in itself. ",
-	 "description": "In his talk, Joshua will share how to write step-by-step instructions in a way that builds community and avoids burnout.",
+	 "about": "Sonya generally automates hardware with software and rolling out the occasional circuit board for ad-hoc scientific instruments at their day job. By night, they’re often tinkering with something, with a strong tendency for it to either autonomously roll off their desk or drill holes in itself.",
+	 "description": "In their talk, Sonya will share how to write step-by-step instructions in a way that builds community and avoids burnout.",
 	 "date": "Saturday, November 4, 2023",
 	 "time": "3:00 PM - 03:40 PM",
 	 "location": "LACM"
@@ -198,9 +189,19 @@ const schedule = {
 	 "about": "Max is a graduate student in EECS, a CNC machinist, and an open-source maker. He enjoys working at the intersection of art, industrial design, optics, and materials science.",
 	 "description": "In his talk, Max will demonstrate how quantum mechanics can be observed and controlled without needing expensive equipment or a mastery of the concepts.",
 	 "date": "Saturday, November 4, 2023",
-	 "time": "3:30 PM - 3:40 PM",
+	 "time": "3:00 PM - 3:40 PM",
 	 "location": "DesignLab"
-	},			{
+	},			
+	{
+	 "speaker": "Jazmin Hernandez",
+	 "title": "Solder and Learn How to Use Your Own Anti-Skimmer (HunterCat)",
+	 "about": "Jazmin is an Electronic Engineer, current Support Area Leader at Electronic Cats, and content creator for the Spanish-speaking community, developing projects between different areas of study to bring students and enthusiasts closer to technology, electronics, and the maker community. My hobby is learning languages, as well as their cultures.",
+	 "description": "Have you ever been vulnerable to data theft? Do you fear using your bank card in ATMs or even in a restaurant? Protect your information from potential skimmers in this workshop while you learn to solder some components of your anti-skimmer/magnetic stripe clone detectors. By the end of the workshop, you’ll have a device to insert before using your bank card to check for potential issues.",
+	 "date": "Saturday, November 4, 2023",
+	 "time": "3:30 PM - 5:30 PM",
+	 "location": "Supplyframe HQ 2nd Floor"
+	},			
+	{
 	 "speaker": "Nathan Jones",
 	 "title": "Inside the Voja4",
 	 "about": "Nathan Jones is an active-duty Army officer and Assistant Professor at West Point Military Academy. He earned his bachelor's degree in Engineering from Harvey Mudd College and his master's degree in Computer Engineering from North Carolina State University. One of Nathan's favorite things is making neat electronic devices and then teaching people how to do the same.",
@@ -388,7 +389,7 @@ const schedule = {
 	 "about": "Angela (Gella) is a maker, artist, and educator passionate about wearable technology, product design, and digital fabrication. She has been working with craft tech and wearables since 2005, worked in the education department at SparkFun Electronics, and is currently a Creative Technologist at a public library makerspace.",
 	 "description": "Her talk shows how companion projects are great for everyone, not just programmers, 3D printing enthusiasts, or engineers. Discover new techniques for creating non-traditional robots our of craft materials.",
 	 "date": "Sunday, November 5, 2023",
-	 "time": "4:00 PM - 4:40 PM",
+	 "time": "4:00 PM - 4:20 PM",
 	 "location": "LACM"
 	},		
 	{
